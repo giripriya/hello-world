@@ -3,3 +3,4 @@
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/giripriya/hello-world)
 Testing Jira Integration
 Testing Jira Integration Smart Commit
+Testing github autoReference 
